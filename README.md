@@ -17,36 +17,21 @@ div.card>img.card__phone-img+div>p.card__small-text+h2.card__name+p.small-text
 ## footer
 
 div.footer>(a.footer__logo>img.footer__img)+ul.footer__ul>li.footer__li*6
+
+
 ![footer](https://user-images.githubusercontent.com/50540337/222735232-e8764256-8e36-41f7-9d69-fd96b929ed81.png)
 
 ## Описание человека
 
-```
-<div class="head">
-	<p class="head__eyes--blue"></p>
-</div>
-<div class="body"></div>
-<div class="arms">
-	<p class="arms__left--tatoo"></p>
-	<p class="arms__right--ring"></p>
-</div>
-<div class="legs">
-	<p class="legs__left"></p>
-	<p class="legs__right--scar"></p>
-</div>
-```
-
-
-
-<div class="head">
-	<p class="head__eyes--blue"></p>
-</div>
-<div class="body"></div>
-<div class="arms">
-	<p class="arms__left--tatoo"></p>
-	<p class="arms__right--ring"></p>
-</div>
-<div class="legs">
-	<p class="legs__left"></p>
-	<p class="legs__right--scar"></p>
-</div>
+> <div class="head">
+>     <p class="head__eyes--blue"></p>
+> </div>
+> <div class="body"></div>
+> <div class="arms">
+>     <p class="arms__left--tatoo"></p>
+>     <p class="arms__right--ring"></p>
+> </div>
+> <div class="legs">
+>     <p class="legs__left"></p>
+>     <p class="legs__right--scar"></p>
+> </div>
