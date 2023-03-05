@@ -17,7 +17,7 @@ div.footer>(a.footer__logo>img.footer__img)+ul.footer__ul>li.footer__li*6
 
 
 ## Описание человека
-<div class="head">
+"<div class="head">
 	<p class="head__eyes--blue"></p>
 </div>
 <div class="body"></div>
@@ -28,4 +28,4 @@ div.footer>(a.footer__logo>img.footer__img)+ul.footer__ul>li.footer__li*6
 <div class="legs">
 	<p class="legs__left"></p>
 	<p class="legs__right--scar"></p>
-</div>
+</div>"
