@@ -1,6 +1,6 @@
 # BEM-first
 ## header
-div.header>(a.header__logo>img.header__img)+ul.header__nav>li.header__menu*4>a.header__links
+div.header>(a.header__logo>img.header__img)+ul.header__nav>li.header__li--menu*4>a.header__a--links
 ![header](https://user-images.githubusercontent.com/50540337/222735197-005b1332-b7b3-4873-b346-929c5da82795.png)
 
 ## form
